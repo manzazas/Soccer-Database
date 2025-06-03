@@ -4,7 +4,7 @@ This project is a Microsoft Access database for tracking soccer player statistic
 
 ## File
 
-- `SoccerStats.accdb` — Contains all tables, sample data, and SQL queries.
+- `SoccerDatabase_ZacharyStybel.accdb` — Contains all tables, sample data, and SQL queries.
 - 
 
 ## Features
